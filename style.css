@@ -1,0 +1,27 @@
+body {
+    background-color: wheat;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 8px;
+}
+.title{
+    text-align: center;
+    font-size: 25px;
+}
+.list{
+    margin: 5px;
+}
+.pizza{
+    font-size: 20px;
+    padding: 8px;
+    color:darkmagenta;
+}
+.ffries{
+    font-size: 20px;
+    padding: 8px;
+    color:green;
+}
+.chicken{
+    font-size: 20px;
+    padding: 8px;
+    color:red;
+}
